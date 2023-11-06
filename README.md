@@ -1,2 +1,4 @@
 # ALL-cell-segmentation
-Using Image processing semgenting ALL images
+
+## Dataset: https://www.kaggle.com/datasets/mehradaria/leukemia
+Using Image processing segmenting ALL images
